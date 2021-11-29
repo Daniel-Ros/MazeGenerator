@@ -7,5 +7,7 @@ This project was an assiment in Algorith Top students class.
 make sure you have an jdk installed
 clone the repo
 run
+
 > javac *.java
+> 
 > java Ex3
